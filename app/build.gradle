@@ -47,7 +47,7 @@ dependencies {
     implementation 'androidx.navigation:navigation-ui-ktx:2.2.1'
 
     // CommonKtx
-    implementation "com.github.sasa-nori:CommonKtx:1.0.4"
+    implementation 'com.github.sasa-nori:common-ktx:1.0.6'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
